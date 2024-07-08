@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: wheat;
+}
+
+h1 {
+  margin: 30px;
+  font-family: sans-serif;
+  text-shadow: 5px 0 wheat;
+  font-size: 7rem;
+  color: rgb(120, 36, 36);
+}
+
+p {
+  font-size: 2rem;
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
